@@ -12,7 +12,7 @@ Web Developer | Script Developer |
 * 🖥️  See my portfolio at [KRS.PL](http://krs.pl)
 * ✉️  You can contact me at [therealworld1337@proton.me](mailto:therealworld1337@proton.me)
 * 🤝  I'm open to collaborating on intersting projects
-* ⚡  I love good music and reverse engineering
+* ⚡  I love creating music
 
 ### I Worked for
 <a href="https://www.bahu.pro" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/icons/726348408134172672/2c887029721afc9c7c1212a89ff1a746.webp?size=240" width="36" height="36" alt="Git" />

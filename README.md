@@ -11,7 +11,6 @@ Web Developer | Script Developer |
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [KRS.PL](http://krs.pl)
 * ✉️  You can contact me at [therealworld1337@proton.me](mailto:therealworld1337@proton.me)
-* 🧠  I'm thinking about learning Svelte
 * 🤝  I'm open to collaborating on intersting projects
 * ⚡  I love good music and reverse engineering
 
